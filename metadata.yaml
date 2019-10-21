@@ -1,5 +1,5 @@
 _repo: Aus-dem-Morgenlande-Altes-und-Neues_60501
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   annotator:
     agent_name: Pietsch, Ludwig
@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Ludwig_Pietsch
     - https://de.wikipedia.org/wiki/Ludwig_Pietsch
+covers:
+- cover_type: archival
+  image_path: 60501-h/images/cover.jpg
 creator:
   author:
     agent_name: Brugsch, Heinrich
@@ -29,6 +32,8 @@ creator:
     - https://de.wikipedia.org/wiki/Heinrich_Brugsch
     - https://en.wikipedia.org/wiki/Heinrich_Karl_Brugsch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60501#Aus-dem-Morgenlande-Altes-und-Neues
 gutenberg_issued: '2019-10-15'
 gutenberg_type: Text
 identifiers:
